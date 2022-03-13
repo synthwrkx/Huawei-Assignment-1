@@ -1,0 +1,49 @@
+Enter 1 for Federal Bank.
+Enter 2 for State Bank Of India.
+Enter 3 for South Indian Bank.
+Enter 4 for Canara Bank.
+
+Enter your choice : 1
+
+You selected Federal Bank.
+
+Enter 1 for personal loan.
+Enter 2 for housing loan.
+Enter 3 for educational loan.
+Enter 4 for gold loan.
+
+Enter your loan type : 4
+
+You selected gold loan.
+
+Enter the amount of loan required : 50000
+
+Interest : 2%
+Period of repayment : 20 Months
+
+Enter 1 to continue or enter 0 to exit : 1
+
+Enter 1 for Federal Bank.
+Enter 2 for State Bank Of India.
+Enter 3 for South Indian Bank.
+Enter 4 for Canara Bank.
+
+Enter your choice : 4
+
+You selected Canara Bank.
+
+Enter 1 for personal loan.
+Enter 2 for housing loan.
+Enter 3 for educational loan.
+Enter 4 for gold loan.
+
+Enter your loan type : 1
+
+You selected personal loan.
+
+Enter the amount of loan required : 100000
+
+Interest : 6%
+Period of repayment : 85 Months
+
+Enter 1 to continue or enter 0 to exit : 0
