@@ -20,7 +20,6 @@ public class Main
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             int ch = Integer.parseInt(br.readLine());
 
-            LoanType lt = new LoanType();
             switch(ch)
               {
                 case 1 :

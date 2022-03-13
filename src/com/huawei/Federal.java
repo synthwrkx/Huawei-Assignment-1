@@ -2,7 +2,7 @@ package com.huawei;
 
 import java.io.IOException;
 
-public class Federal
+public class Federal extends Amount
   {
     int interest,monthlyAmt;
     float n;
@@ -13,10 +13,9 @@ public class Federal
     int loanDetail() throws IOException
       {
         LoanType lt = new LoanType();
-        Amount amt = new Amount();
 
         int loan = lt.loanType();
-        int amount = amt.amountReq();
+        int amount = amountReq();
 
         if(loan==1)
           {
